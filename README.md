@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @BishnujyotiKhargharia
 - 👀 I’m interested in Software developing
-- 🌱 I’m currently learning BCA
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kharghariabishnujyoti@gmail.com
 
